@@ -1,4 +1,4 @@
-Olá, aqui é o João Pedro Castelar, estudante de Ciência da Computação 👋
+## Olá, aqui é o João Pedro Castelar, estudante de Ciência da Computação 👋
 
 <div align="center">
   <a href="https://github.com/jaocastelar">
