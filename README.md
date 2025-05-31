@@ -1,4 +1,4 @@
-## Olá, aqui é o João Pedro Castelar, bacharel em Ciência da Computação - 2023 👋
+## Olá, aqui é o João Pedro Castelar, bacharel em Ciência da Computação - 2025 👋
 
 <div align="center">
   <a href="https://github.com/jaocastelar">
